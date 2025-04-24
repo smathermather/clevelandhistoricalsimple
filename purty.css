@@ -3,14 +3,14 @@
     font-style: normal;
     font-weight: 700;
     font-display: block;
-    src: url(assets/4c65d495-0608-4990-a765-2c3950675162) format('woff');
+    src: url(assets/4c65d495-0608-4990-a765-2c3950675162.woff);
   }
 @font-face {
     font-family: 'Helvetica';
     font-style: normal;
     font-weight: 400;
     font-display: block;
-    src: url(assets/b593173f-3fa9-4aa8-a03d-987008406fcf) format('woff');
+    src: url(assets/b593173f-3fa9-4aa8-a03d-987008406fcf.woff);
   }
 
 html, body {
