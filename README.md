@@ -1,3 +1,3 @@
 # clevelandhistoricalsimple
 
-https://smathermather.github.io/clevelandhistoricalsimple
+https://dude681.github.io/clevelandhistoricalsimple/
